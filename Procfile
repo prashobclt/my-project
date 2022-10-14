@@ -1,0 +1,1 @@
+web: gunicorn lfschool.wsgi --log-file -
